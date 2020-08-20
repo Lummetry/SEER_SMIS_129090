@@ -6,4 +6,4 @@ This is the main Lummetry.AI public repository for the public dissemination of S
 
 ## Content
 
-_The following content is made available under Open Software License ("OSL") v 3.0 and is entirely the creation of the Lummetry.AI team in the SEER project. No proprietary content of other entities such as Stanford University or Stanford Center of Professional Development (SCPD) has been made public_
+_The following content is made available under Open Software License ("OSL") v 3.0 and is entirely the creation of the Lummetry.AI team in the SEER project. No proprietary content of other entities has been made public_
